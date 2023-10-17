@@ -1,0 +1,14 @@
+database:
+  postgres:
+    database: paperworkplayground
+    port: 5432
+    host: localhost
+    user: postgres
+    password: POSTGRES_DB_PASSWORD
+  redis:
+    port: 5431
+    host: localhost
+    password: REDIS_PASSWORD
+authorization:
+  auth0:
+    wellKnown: https://dev-1q2w3e4r.us.auth0.com/.well-known/jwks.json

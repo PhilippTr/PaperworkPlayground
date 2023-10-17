@@ -79,3 +79,6 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+## Infrastructure
+[![](https://mermaid.ink/img/pako:eNpdUdFKwzAU_ZVwn7sxk7RdowjiQAQFcW-2Ptwl6Va2NiVNrXXs341bO6h5CDnnnpybk3sEaZQGAfnBdHKH1pGX99usIn7VeVofsNeW5NZUTlfq81Lo8rQr9sV_Grfpw9szeUKnO-wHUjXpCh2StbZfhdQDK5v00TdD6bz7tNS0m63Fekc2KPfefPQmd7PZvbebYjngq_B6fXzcmOWix-0YYYrPQgig1LbEQvkPOf4VMnA7XeoMhD8qtPsMsurkddg6s-4rCcLZVgfQ1srHXhXom5cgcjw0nq2x-jBmgkEc4RsE5fNFuKSLKPQ7jUMeQA8innPKlxFjbMnjBQ-TUwA_ZwM6TxhNkji6oRELGWdRAFoVztjXy_zOYzz9AvetjjU?type=png)](https://mermaid.live/edit#pako:eNpdUdFKwzAU_ZVwn7sxk7RdowjiQAQFcW-2Ptwl6Va2NiVNrXXs341bO6h5CDnnnpybk3sEaZQGAfnBdHKH1pGX99usIn7VeVofsNeW5NZUTlfq81Lo8rQr9sV_Grfpw9szeUKnO-wHUjXpCh2StbZfhdQDK5v00TdD6bz7tNS0m63Fekc2KPfefPQmd7PZvbebYjngq_B6fXzcmOWix-0YYYrPQgig1LbEQvkPOf4VMnA7XeoMhD8qtPsMsurkddg6s-4rCcLZVgfQ1srHXhXom5cgcjw0nq2x-jBmgkEc4RsE5fNFuKSLKPQ7jUMeQA8innPKlxFjbMnjBQ-TUwA_ZwM6TxhNkji6oRELGWdRAFoVztjXy_zOYzz9AvetjjU)
